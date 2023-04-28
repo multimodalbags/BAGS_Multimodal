@@ -5,4 +5,4 @@ This repository contains the code of BAGS, which can messure the important data 
 
 # BAGS
 
-Please go into the buav folder, and run main.py
+Please run data_diet.py
